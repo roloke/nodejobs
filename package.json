@@ -1,0 +1,11 @@
+{
+  "name": "nodejobs",
+  "version": "0.0.1",
+  "description": "Jobs posting application at thejavanode.wordpress.com",
+  "author": "xyz@thejavanode.wordpress.com",
+  "dependencies": {
+      "mongoose": "3.8.17",
+      "restify": "2.8.3",
+      "validator": "3.22.0"
+  }
+}
