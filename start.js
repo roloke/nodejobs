@@ -1,4 +1,5 @@
 var server_port = 8080;
+var mongodb = require('./lib/mongodb');
 var create = require('./lib/server');
 
 (function () {
